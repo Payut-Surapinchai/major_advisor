@@ -1,0 +1,722 @@
+[
+    {
+        "name": "Data Science",
+        "education": "Bachelor's Degree",
+        "description": "Combines statistics, programming, and AI to extract insights from data.",
+        "difficulty": 5,
+        "job_outlook": "Excellent",
+        "work_environment": [
+            "Office",
+            "Hybrid",
+            "Remote"
+        ],
+       "personality": {
+            "analytical": 5,
+            "logical": 5,
+            "curious": 5,
+            "detail-oriented": 5,
+            "organized": 4,
+            "innovative": 4,
+            "independent": 3
+        },
+        "courses": [
+            {"name": "Introduction to Programming", "difficulty": 2},
+            {"name": "Object-Oriented Programming", "difficulty": 3},
+            {"name": "Data Structures & Algorithms", "difficulty": 4},
+            {"name": "Database Systems", "difficulty": 3},
+            {"name": "Probability & Statistics", "difficulty": 4},
+            {"name": "Machine Learning", "difficulty": 5},
+            {"name": "Data Visualization", "difficulty": 3},
+            {"name": "Big Data Analytics", "difficulty": 4},
+            {"name": "Artificial Intelligence", "difficulty": 5},
+            {"name": "Data Science Capstone", "difficulty": 4}
+        ],
+        "skills": {
+            "python": 5,
+            "sql": 5,
+            "machine learning": 5,
+            "data visualization": 4,
+            "excel": 4,
+            "problem solving": 5,
+            "communication": 3
+        },
+        "interests": {
+            "coding": 5,
+            "ai": 5,
+            "math": 5,
+            "statistics": 5,
+            "analytics": 5,
+            "research": 4,
+            "technology": 5
+        },
+        "careers": [
+            {
+                "title": "Data Scientist",
+                "salary": 125000
+            },
+            {
+                "title": "ML Engineer",
+                "salary": 145000
+            },
+            {
+                "title": "Data Engineer",
+                "salary": 130000
+            }
+        ]
+    },
+    {
+        "name": "Computer Science",
+        "education": "Bachelor's Degree",
+        "description": "Studies software, algorithms, and computing systems.",
+        "difficulty": 5,
+        "job_outlook": "Excellent",
+        "work_environment": [
+            "Office",
+            "Hybrid",
+            "Remote"
+        ],
+        "personality": {
+            "logical": 5,
+            "analytical": 5,
+            "curious": 4,
+            "problem solver": 5,
+            "independent": 4,
+            "innovative": 4,
+            "detail-oriented": 4
+        },
+        "courses": [
+            {"name": "Programming Fundamentals", "difficulty": 2},
+            {"name": "Object-Oriented Programming", "difficulty": 3},
+            {"name": "Data Structures", "difficulty": 4},
+            {"name": "Algorithms", "difficulty": 5},
+            {"name": "Computer Architecture", "difficulty": 4},
+            {"name": "Operating Systems", "difficulty": 5},
+            {"name": "Database Systems", "difficulty": 3},
+            {"name": "Software Engineering", "difficulty": 3},
+            {"name": "Computer Networks", "difficulty": 4},
+            {"name": "Capstone Software Project", "difficulty": 4}
+        ],
+        "skills": {
+            "python": 5,
+            "java": 5,
+            "c++": 5,
+            "algorithms": 5,
+            "data structures": 5,
+            "git": 4,
+            "debugging": 5,
+            "problem solving": 5
+        },
+        "interests": {
+            "coding": 5,
+            "computer": 5,
+            "technology": 5,
+            "ai": 3
+        },
+        "careers": [
+            {
+                "title": "Software Engineer",
+                "salary": 130000
+            },
+            {
+                "title": "Backend Developer",
+                "salary": 125000
+            },
+            {
+                "title": "Cloud Engineer",
+                "salary": 135000
+            }
+        ]
+    },
+    {
+        "name": "Cybersecurity",
+        "education": "Bachelor's Degree",
+        "description": "Protects systems and networks from cyber threats.",
+        "difficulty": 5,
+        "job_outlook": "Good",
+        "work_environment": [
+            "Office",
+            "Hybrid"
+        ],
+        "personality": {
+            "analytical": 5,
+            "observant": 5,
+            "logical": 5,
+            "detail-oriented": 5,
+            "patient": 4,
+            "curious": 4,
+            "independent": 3
+        },
+        "courses": [
+            {"name": "Computer Networks", "difficulty": 4},
+            {"name": "Linux Administration", "difficulty": 3},
+            {"name": "Ethical Hacking", "difficulty": 4},
+            {"name": "Cyber Defense", "difficulty": 4},
+            {"name": "Digital Forensics", "difficulty": 4},
+            {"name": "Cryptography", "difficulty": 5},
+            {"name": "Network Security", "difficulty": 4},
+            {"name": "Cloud Security", "difficulty": 4},
+            {"name": "Incident Response", "difficulty": 3},
+            {"name": "Cybersecurity Capstone", "difficulty": 4}
+        ],
+        "skills": {
+            "networking": 5,
+            "linux": 5,
+            "python": 4,
+            "security": 5,
+            "ethical hacking": 5,
+            "problem solving": 5,
+            "communication": 3,
+            "risk analysis": 4
+        },
+        "interests": {
+            "security": 5,
+            "computer": 5,
+            "coding": 4,
+            "technology": 5
+        },
+        "careers": [
+            {
+                "title": "Cybersecurity Analyst",
+                "salary": 115000
+            },
+            {
+                "title": "Security Engineer",
+                "salary": 130000
+            },
+            {
+                "title": "Penetration Tester",
+                "salary": 120000
+            }
+        ]
+    },
+    {
+        "name": "Information Systems",
+        "education": "Bachelor's Degree",
+        "description": "Bridges business and technology.",
+        "difficulty": 3,
+        "job_outlook": "Good",
+        "work_environment": [
+            "Office",
+            "Hybrid"
+        ],
+        "personality": {
+            "organized": 5,
+            "communicative": 5,
+            "team player": 5,
+            "analytical": 4,
+            "adaptable": 4,
+            "leadership": 3,
+            "detail-oriented": 3
+        },
+        "courses": [
+            {"name": "Business Information Systems", "difficulty": 2},
+            {"name": "Database Management", "difficulty": 3},
+            {"name": "Systems Analysis & Design", "difficulty": 3},
+            {"name": "Business Analytics", "difficulty": 3},
+            {"name": "Project Management", "difficulty": 2},
+            {"name": "Enterprise Systems", "difficulty": 3},
+            {"name": "Information Security", "difficulty": 3},
+            {"name": "IT Strategy", "difficulty": 2},
+            {"name": "Business Intelligence", "difficulty": 3},
+            {"name": "Systems Development Project", "difficulty": 3}
+        ],
+        "skills": {
+            "sql": 5,
+            "excel": 5,
+            "communication": 5,
+            "project management": 4,
+            "business analysis": 5,
+            "problem solving": 4,
+            "documentation": 4
+        },
+        "interests": {
+            "business": 4,
+            "technology": 5,
+            "computer": 4,
+            "analytics": 4,
+            "management": 3
+        },
+        "careers": [
+            {
+                "title": "Business Analyst",
+                "salary": 95000
+            },
+            {
+                "title": "Systems Analyst",
+                "salary": 100000
+            },
+            {
+                "title": "IT Manager",
+                "salary": 125000
+            }
+        ]
+    },
+    {
+        "name": "Economics",
+        "education": "Bachelor's Degree",
+        "description": "Studies resource allocation and markets.",
+        "difficulty": 4,
+        "job_outlook": "Good",
+        "work_environment": [
+            "Office"
+        ],
+        "personality": {
+            "analytical": 5,
+            "curious": 5,
+            "logical": 4,
+            "research-oriented": 5,
+            "detail-oriented": 3,
+            "communicative": 3
+        },
+        "courses": [
+            {"name": "Microeconomics", "difficulty": 2},
+            {"name": "Macroeconomics", "difficulty": 2},
+            {"name": "Intermediate Microeconomics", "difficulty": 4},
+            {"name": "Intermediate Macroeconomics", "difficulty": 4},
+            {"name": "Econometrics", "difficulty": 5},
+            {"name": "Statistics", "difficulty": 4},
+            {"name": "Game Theory", "difficulty": 5},
+            {"name": "International Economics", "difficulty": 3},
+            {"name": "Public Economics", "difficulty": 3},
+            {"name": "Economic Research Seminar", "difficulty": 4}
+        ],
+        "skills": {
+            "research": 5,
+            "excel": 4,
+            "python": 3,
+            "critical thinking": 5,
+            "writing": 4,
+            "communication": 3
+        },
+        "interests": {
+            "economics": 5,
+            "analytics": 4,
+            "math": 4,
+            "business": 3
+        },
+        "careers": [
+            {
+                "title": "Economist",
+                "salary": 115000
+            },
+            {
+                "title": "Policy Analyst",
+                "salary": 85000
+            },
+            {
+                "title": "Economic Consultant",
+                "salary": 120000
+            }
+        ]
+    },
+    {
+        "name": "Accounting",
+        "education": "Bachelor's Degree",
+        "description": "Financial reporting and auditing.",
+        "difficulty": 3,
+        "job_outlook": "Good",
+        "work_environment": [
+            "Office"
+        ],
+        "personality": {
+            "detail-oriented": 5,
+            "organized": 5,
+            "analytical": 4,
+            "logical": 4,
+            "patient": 4,
+            "independent": 3
+        },
+        "courses": [
+            {"name": "Financial Accounting", "difficulty": 2},
+            {"name": "Managerial Accounting", "difficulty": 3},
+            {"name": "Intermediate Accounting", "difficulty": 5},
+            {"name": "Cost Accounting", "difficulty": 4},
+            {"name": "Auditing", "difficulty": 4},
+            {"name": "Taxation", "difficulty": 4},
+            {"name": "Accounting Information Systems", "difficulty": 3},
+            {"name": "Business Law", "difficulty": 2},
+            {"name": "Corporate Finance", "difficulty": 4},
+            {"name": "Accounting Capstone", "difficulty": 4}
+        ],
+        "skills": {
+            "excel": 5,
+            "accounting": 5,
+            "attention to detail": 5,
+            "organization": 5,
+            "auditing": 4,
+            "taxation": 4,
+            "communication": 3,
+            "problem solving": 3
+        },
+        "interests": {
+            "business": 5,
+            "math": 4,
+            "finance": 5,
+            "analytics": 4
+        },
+        "careers": [
+            {
+                "title": "Accountant",
+                "salary": 85000
+            },
+            {
+                "title": "Auditor",
+                "salary": 90000
+            },
+            {
+                "title": "Tax Consultant",
+                "salary": 105000
+            }
+        ]
+    },
+    {
+        "name": "Electrical Engineering",
+        "education": "Bachelor's Degree",
+        "description": "Designs electrical systems.",
+        "difficulty": 5,
+        "job_outlook": "Good",
+        "work_environment": [
+            "Office",
+            "Lab"
+        ],
+        "personality": {
+            "logical": 5,
+            "analytical": 5,
+            "innovative": 4,
+            "detail-oriented": 4,
+            "patient": 3,
+            "curious": 4
+        },
+        "courses": [
+            {"name": "Circuit Analysis", "difficulty": 4},
+            {"name": "Digital Logic Design", "difficulty": 4},
+            {"name": "Electronics", "difficulty": 5},
+            {"name": "Signals & Systems", "difficulty": 5},
+            {"name": "Electromagnetics", "difficulty": 5},
+            {"name": "Microcontrollers", "difficulty": 4},
+            {"name": "Control Systems", "difficulty": 5},
+            {"name": "Power Systems", "difficulty": 4},
+            {"name": "Embedded Systems", "difficulty": 5},
+            {"name": "Engineering Design Project", "difficulty": 4}
+        ],
+        "skills": {
+            "circuits": 5,
+            "physics": 5,
+            "programming": 3,
+            "problem solving": 5,
+            "electronics": 5,
+            "design": 4,
+            "teamwork": 3
+        },
+        "interests": {
+            "engineering": 5,
+            "physics": 5,
+            "math": 4,
+            "technology": 5
+        },
+        "careers": [
+            {
+                "title": "Electrical Engineer",
+                "salary": 115000
+            },
+            {
+                "title": "Electronics Engineer",
+                "salary": 120000
+            },
+            {
+                "title": "Control Systems Engineer",
+                "salary": 125000
+            }
+        ]
+    },
+    {
+        "name": "Civil Engineering",
+        "education": "Bachelor's Degree",
+        "description": "Designs infrastructure.",
+        "difficulty": 5,
+        "job_outlook": "Good",
+        "work_environment": [
+            "Office",
+            "Field"
+        ],
+        "personality": {
+            "organized": 5,
+            "team player": 5,
+            "logical": 4,
+            "analytical": 4,
+            "leadership": 4,
+            "detail-oriented": 4
+        },
+        "courses": [
+            {"name": "Statics", "difficulty": 3},
+            {"name": "Dynamics", "difficulty": 4},
+            {"name": "Mechanics of Materials", "difficulty": 4},
+            {"name": "Structural Analysis", "difficulty": 5},
+            {"name": "Transportation Engineering", "difficulty": 3},
+            {"name": "Geotechnical Engineering", "difficulty": 4},
+            {"name": "Hydraulics", "difficulty": 4},
+            {"name": "Construction Management", "difficulty": 2},
+            {"name": "Environmental Engineering", "difficulty": 3},
+            {"name": "Senior Design Project", "difficulty": 4}
+        ],
+        "skills": {
+            "cad": 5,
+            "construction": 5,
+            "project management": 4,
+            "physics": 4,
+            "problem solving": 5,
+            "communication": 3
+        },
+        "interests": {
+            "engineering": 5,
+            "design": 4,
+            "math": 4
+        },
+        "careers": [
+            {
+                "title": "Civil Engineer",
+                "salary": 100000
+            },
+            {
+                "title": "Structural Engineer",
+                "salary": 110000
+            },
+            {
+                "title": "Transportation Engineer",
+                "salary": 105000
+            }
+        ]
+    },
+    {
+        "name": "Political Science",
+        "education": "Bachelor's Degree",
+        "description": "Studies government and policy.",
+        "difficulty": 2,
+        "job_outlook": "Good",
+        "work_environment": [
+            "Office"
+        ],
+        "personality": {
+            "communicative": 5,
+            "leadership": 5,
+            "analytical": 4,
+            "curious": 4,
+            "adaptable": 4,
+            "team player": 4
+        },
+        "courses": [
+            {"name": "Introduction to Political Science", "difficulty": 1},
+            {"name": "Comparative Politics", "difficulty": 3},
+            {"name": "American Government", "difficulty": 2},
+            {"name": "International Relations", "difficulty": 3},
+            {"name": "Political Theory", "difficulty": 4},
+            {"name": "Public Policy", "difficulty": 3},
+            {"name": "Public Administration", "difficulty": 3},
+            {"name": "Research Methods", "difficulty": 3},
+            {"name": "Constitutional Law", "difficulty": 4},
+            {"name": "Political Science Seminar", "difficulty": 3}
+        ],
+        "skills": {
+            "research": 5,
+            "writing": 5,
+            "communication": 5,
+            "critical thinking": 5,
+            "leadership": 3,
+            "policy analysis": 5,
+            "public speaking": 4,
+            "debate": 4
+        },
+        "interests": {
+            "politics": 5,
+            "law": 4,
+            "government": 5
+        },
+        "careers": [
+            {
+                "title": "Policy Analyst",
+                "salary": 85000
+            },
+            {
+                "title": "Legislative Assistant",
+                "salary": 70000
+            },
+            {
+                "title": "Public Affairs Specialist",
+                "salary": 95000
+            }
+        ]
+    },
+    {
+        "name": "Education",
+        "education": "Bachelor's Degree",
+        "description": "Prepares future educators.",
+        "difficulty": 2,
+        "job_outlook": "Good",
+        "work_environment": [
+            "School"
+        ],
+        "personality": {
+            "empathetic": 5,
+            "patient": 5,
+            "communicative": 5,
+            "leadership": 4,
+            "organized": 3,
+            "team player": 4
+        },
+        "courses": [
+            {"name": "Educational Psychology", "difficulty": 3},
+            {"name": "Teaching Methods", "difficulty": 2},
+            {"name": "Classroom Management", "difficulty": 2},
+            {"name": "Curriculum Development", "difficulty": 3},
+            {"name": "Child Development", "difficulty": 3},
+            {"name": "Assessment & Evaluation", "difficulty": 3},
+            {"name": "Educational Technology", "difficulty": 2},
+            {"name": "Special Education", "difficulty": 3},
+            {"name": "Student Teaching", "difficulty": 4},
+            {"name": "Teaching Practicum", "difficulty": 4}
+        ],
+        "skills": {
+            "communication": 5,
+            "leadership": 4,
+            "organization": 4,
+            "presentation": 5,
+            "patience": 5,
+            "teamwork": 3,
+            "planning": 4
+        },
+        "interests": {
+            "people": 5,
+            "teaching": 5,
+            "learning": 5
+        },
+        "careers": [
+            {
+                "title": "Teacher",
+                "salary": 65000
+            },
+            {
+                "title": "School Administrator",
+                "salary": 95000
+            },
+            {
+                "title": "Curriculum Specialist",
+                "salary": 85000
+            }
+        ]
+    },
+    {
+        "name": "Chemistry",
+        "education": "Bachelor's Degree",
+        "description": "Studies chemicals and reactions.",
+        "difficulty": 5,
+        "job_outlook": "Good",
+        "work_environment": [
+            "Lab"
+        ],
+        "personality": {
+            "detail-oriented": 5,
+            "analytical": 5,
+            "patient": 4,
+            "curious": 4,
+            "organized": 4,
+            "logical": 4
+        },
+        "courses": [
+            {"name": "General Chemistry", "difficulty": 3},
+            {"name": "Organic Chemistry", "difficulty": 5},
+            {"name": "Analytical Chemistry", "difficulty": 4},
+            {"name": "Physical Chemistry", "difficulty": 5},
+            {"name": "Biochemistry", "difficulty": 5},
+            {"name": "Instrumental Analysis", "difficulty": 4},
+            {"name": "Inorganic Chemistry", "difficulty": 4},
+            {"name": "Laboratory Techniques", "difficulty": 3},
+            {"name": "Chemical Research", "difficulty": 4},
+            {"name": "Chemistry Capstone", "difficulty": 4}
+        ],
+        "skills": {
+            "laboratory": 5,
+            "research": 5,
+            "data analysis": 3,
+            "attention to detail": 5,
+            "problem solving": 4,
+            "writing": 3,
+            "teamwork": 3
+        },
+        "interests": {
+            "science": 5,
+            "chemistry": 5
+        },
+        "careers": [
+            {
+                "title": "Chemist",
+                "salary": 85000
+            },
+            {
+                "title": "Research Chemist",
+                "salary": 95000
+            },
+            {
+                "title": "QC Scientist",
+                "salary": 80000
+            }
+        ]
+    },
+    {
+        "name": "Healthcare Administration",
+        "education": "Bachelor's Degree",
+        "description": "Manages healthcare organizations.",
+        "difficulty": 2,
+        "job_outlook": "Good",
+        "work_environment": [
+            "Hospital",
+            "Office"
+        ],
+        "personality": {
+            "leadership": 5,
+            "organized": 5,
+            "empathetic": 4,
+            "team player": 4,
+            "adaptable": 4
+        },
+        "courses": [
+            {"name": "Healthcare Systems", "difficulty": 2},
+            {"name": "Healthcare Management", "difficulty": 3},
+            {"name": "Healthcare Finance", "difficulty": 4},
+            {"name": "Health Policy", "difficulty": 3},
+            {"name": "Healthcare Ethics", "difficulty": 2},
+            {"name": "Human Resource Management", "difficulty": 2},
+            {"name": "Quality Improvement", "difficulty": 3},
+            {"name": "Healthcare Informatics", "difficulty": 3},
+            {"name": "Strategic Management", "difficulty": 4},
+            {"name": "Healthcare Administration Internship", "difficulty": 3}
+        ],
+        "skills": {
+            "management": 5,
+            "communication": 5,
+            "organization": 5,
+            "problem solving": 4,
+            "excel": 3,
+            "healthcare": 4
+        },
+        "interests": {
+            "medical": 4,
+            "business": 5,
+            "management": 5,
+            "people": 4
+        },
+        "careers": [
+            {
+                "title": "Healthcare Administrator",
+                "salary": 105000
+            },
+            {
+                "title": "Hospital Manager",
+                "salary": 120000
+            },
+            {
+                "title": "Health Services Manager",
+                "salary": 115000
+            }
+        ]
+    }
+]

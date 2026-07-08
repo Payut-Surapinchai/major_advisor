@@ -1,0 +1,139 @@
+[
+    {
+        "programming": "coding",
+        "software development": "coding",
+        "software engineering": "coding",
+        "software": "coding",
+        "developer": "coding",
+        "developers": "coding",
+        "coding": "coding",
+
+        "machine learning": "ai",
+        "ml": "ai",
+        "artificial intelligence": "ai",
+        "deep learning": "ai",
+        "neural networks": "ai",
+        "chatbots": "ai",
+
+        "mathematics": "math",
+        "numbers": "math",
+        "calculus": "math",
+        "algebra": "math",
+
+        "statistics": "statistics",
+        "data": "statistics",
+        "data analysis": "statistics",
+        "analytics": "statistics",
+
+        "computer": "computer",
+        "computers": "computer",
+        "technology": "computer",
+        "tech": "computer",
+
+        "researching": "research",
+        "experiments": "research",
+        "investigation": "research",
+
+        "people": "people",
+        "helping people": "people",
+        "working with people": "people",
+
+        "psychology": "behavior",
+        "human behavior": "behavior",
+        "behavioral science": "behavior",
+
+        "mental wellness": "mental health",
+        "therapy": "mental health",
+        "counseling": "mental health",
+
+        "healthcare": "medical",
+        "medicine": "medical",
+        "doctor": "medical",
+        "hospital": "medical",
+        "patient care": "medical",
+
+        "health": "health",
+        "wellness": "health",
+        "fitness": "health",
+
+        "biology": "science",
+        "chemistry": "science",
+        "laboratory": "science",
+        "scientific research": "science",
+
+        "wildlife": "animals",
+        "pets": "animals",
+        "zoology": "animals",
+
+        "environment": "nature",
+        "outdoors": "nature",
+        "ecology": "nature",
+
+        "finance": "investing",
+        "stocks": "investing",
+        "trading": "investing",
+        "investments": "investing",
+
+        "economy": "economics",
+        "economic policy": "economics",
+
+        "markets": "market",
+        "market analysis": "market",
+
+        "business management": "business",
+        "business strategy": "business",
+        "company": "business",
+
+        "leadership": "management",
+        "managing": "management",
+        "manager": "management",
+
+        "startup": "entrepreneurship",
+        "startups": "entrepreneurship",
+        "founder": "entrepreneurship",
+        "business owner": "entrepreneurship",
+
+        "public speaking": "communication",
+        "writing": "communication",
+        "presentations": "communication",
+
+        "advertising": "marketing",
+        "branding": "marketing",
+        "promotion": "marketing",
+        "digital marketing": "marketing",
+
+        "instagram": "social media",
+        "tiktok": "social media",
+        "youtube": "social media",
+        "content creation": "social media",
+
+        "creative": "creativity",
+        "art": "creativity",
+        "design thinking": "creativity",
+
+        "logic puzzles": "logic",
+        "critical thinking": "logic",
+
+        "problem-solving": "problem solving",
+        "problem solving": "problem solving",
+        "troubleshooting": "problem solving",
+
+        "engineering design": "engineering",
+        "engineering": "engineering",
+
+        "physics": "physics",
+        "mechanics": "physics",
+
+        "robotics": "engineering",
+        "robot design": "engineering",
+
+        "product design": "design",
+        "cad": "design",
+
+        "life sciences": "life",
+        "living organisms": "life",
+
+        "helping others": "caregiving",
+        "care": "caregiving"
+    }
+]
