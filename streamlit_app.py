@@ -522,6 +522,11 @@ if "recommendations" in st.session_state:
         # Append the chatbot's answer into the session_state so the program can remember what the answer was
         st.session_state.msg.append({"role": "assistant", "content": answer})
 
+# If the user pressed Start Over, then run this code
 if st.button("Start Over"):
-    st.session_state.clear()
-    st.rerun()  
+
+    # Clear the chatbot's messages
+    st.session_state.messages = []
+
+    # Rerun the code
+    st.rerun()
