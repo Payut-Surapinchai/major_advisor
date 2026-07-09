@@ -177,8 +177,12 @@ if "recommendations" in st.session_state:
                         # work on more for a better fit to this major
                         # Use session_state so when the streamlit reruns, it's faster if the program has 
                         # explained about the major before
+
+                        # Try if the ai_explanation works
                         try:
                             st.session_state.explanations[major["name"]] = ai_explanation(major)
+
+                        # Display this message if ai_explanation had an error
                         except Exception:
                             st.warning("AI Explanation is unavailable. Please check and make sure Ollama is running properly.")
 
@@ -251,9 +255,12 @@ if "recommendations" in st.session_state:
                         # If the major hasn't been analyzed or explained before, then run this code
                         if key not in st.session_state.similar:
                             
+                            # Try similar_explanation function
                             try:
                                 # Generate the similarity explanation
                                 st.session_state.similar[key] = similar_explanation(major, i)
+
+                            # If the function fails, display this message
                             except Exception:
                                 st.warning("AI Explanation is unavailable. Please check and make sure Ollama is running properly.")
                     
@@ -507,9 +514,12 @@ if "recommendations" in st.session_state:
             # Show that the chatbot is thinking while waiting for ai_answer to generate the answer
             with st.spinner("Thinking..."):
 
+                # Try the ai_answer() function
                 try:
                     # Generate the chatbot's answer
                     answer = ai_answer(get_input, recommendations)
+
+                # Display this message if there was an error
                 except Exception:
                     st.warning("AI Explanation is unavailable. Please check and make sure Ollama is running properly.")
 
