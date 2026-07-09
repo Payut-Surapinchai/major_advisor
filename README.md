@@ -10,6 +10,8 @@ about how to use the LLMs. I did not use ChatGPT to create codes for me to copy.
 and algorithms for the recommender along with the framework myself. I only used ChatGPT as a guider/tutor for
 learning syntaxes of new libraries and some refinement suggestions for my Major Advisor Recommender.
 
+**COMMENTS IN CODE FILES**: In the code files, you may notice that the comments are very detailed and pretty much explains what happens line-by-line. I did this because I want for people who may have little background in coding or not very technical with programming, understands what each steps does. I apologize if the code file looks messy, but to convey the reasoning behind each codes to non-technical users, I believe it was best to explain the code line-by-line.
+
 ## Files Explanation
 
 `majors.json` -> a json file that contains information about each majors (asked ChatGPT to create this for me)
