@@ -1,6 +1,6 @@
 # Major Advisor Recommender with Chatbot LLM
 
-This project is a personal project by Payut Surapinchai. 
+This is a personal project made by Payut Surapinchai. 
 
 The goal for this project is to learn more about how to use AI, Machine Learning, how to make recommendation system, how to use Ollama, 
 and be more familiar with the overall LLM framework. 
